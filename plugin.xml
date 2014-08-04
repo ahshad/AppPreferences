@@ -7,7 +7,7 @@
     <engine name="cordova" version=">=2.9.0" />
   </engines>
   <name>Preferences Access Plugin</name>
-  <description>Scans Barcodes.</description>
+  <description>Access Preferences Plugin</description>
   <license>MIT</license>
   <platform name="android">
  	<js-module src="src/android/applicationPreferences.js" name="applicationPreferences">
